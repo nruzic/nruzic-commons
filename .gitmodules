@@ -1,3 +1,6 @@
 [submodule "nruzic-commons-conventions"]
 	path = nruzic-commons-conventions
 	url = git@github.com:nruzic/nruzic-commons-conventions.git
+[submodule "nruzic-commons-assemblies"]
+	path = nruzic-commons-assemblies
+	url = git@github.com:nruzic/nruzic-commons-assemblies.git

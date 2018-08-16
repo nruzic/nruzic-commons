@@ -7,3 +7,6 @@
 [submodule "nruzic-commons-git"]
 	path = nruzic-commons-git
 	url = git@github.com:nruzic/nruzic-commons-git.git
+[submodule "nruzic-commons-master"]
+	path = nruzic-commons-master
+	url = git@github.com:nruzic/nruzic-commons-master.git

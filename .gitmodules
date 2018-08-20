@@ -10,3 +10,6 @@
 [submodule "nruzic-commons-master"]
 	path = nruzic-commons-master
 	url = git@github.com:nruzic/nruzic-commons-master.git
+[submodule "nruzic-commons-archetype"]
+	path = nruzic-commons-archetype
+	url = git@github.com:nruzic/nruzic-commons-archetype.git

@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>hr.nruzic.commons.master</groupId>
+    <artifactId>nruzic-commons-master</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </parent>
+
+  <groupId>hr.nruzic.commons</groupId>
+  <artifactId>nruzic-commons</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>nruzic commons</name>
+  <url>https://github.com/nruzic/nruzic-commons</url>
+
+  <modules>
+    <module>nruzic-commons-ad</module>
+    <module>nruzic-commons-archetype</module>
+    <module>nruzic-commons-assemblies</module>
+    <module>nruzic-commons-conventions</module>
+    <module>nruzic-commons-git</module>
+  </modules>
+
+</project>

@@ -13,3 +13,6 @@
 [submodule "nruzic-commons-archetype"]
 	path = nruzic-commons-archetype
 	url = git@github.com:nruzic/nruzic-commons-archetype.git
+[submodule "nruzic-commons-ad"]
+	path = nruzic-commons-ad
+	url = git@github.com:nruzic/nruzic-commons-ad.git
